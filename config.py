@@ -4,8 +4,8 @@
 browser = ["Chrome"]
 # Enter your Linkedin password and username below. Do not commit this file after entering these credentials.
 # Linkedin credentials
-email = "YourLinkedin@UserEmail.com"
-password = "YourLinkedinPassword"
+email = "sangilish@gmail.com"
+password = "LSE_top2827129"
 
 #PRO FEATURE - Optional! run browser in headless mode, no browser screen will be shown it will work in background.
 headless = False
@@ -20,21 +20,21 @@ chromeProfilePath = r""
 # continent locations:["Europe", "Asia", "Australia", "NorthAmerica", "SouthAmerica", "Africa", "Australia"]
 location = ["NorthAmerica"]
 # keywords related with your job search
-keywords = ["frontend", "react", "typescript","javascript", "vue", "python", "programming", "blockchain"]
+keywords = ["product manager", "project manager", "product management", "project management", "product marketing", "marketing manager", "marketing management", "marketing"]
 #job experience Level - ex:  ["Internship", "Entry level" , "Associate" , "Mid-Senior level" , "Director" , "Executive"]
-experienceLevels = [ "Entry level" ]
+experienceLevels = [ "Mid-Senior level" ]
 #job posted date - ex: ["Any Time", "Past Month" , "Past Week" , "Past 24 hours"] - select only one
-datePosted = ["Past Week"]
+datePosted = ["Any Time"]
 #job type - ex:  ["Full-time", "Part-time" , "Contract" , "Temporary", "Volunteer", "Intership", "Other"]
-jobType = ["Full-time", "Part-time" , "Contract"]
+jobType = ["Full-time"]
 #remote  - ex: ["On-site" , "Remote" , "Hybrid"]
 remote = ["On-site" , "Remote" , "Hybrid"]
 #salary - ex:["$40,000+", "$60,000+", "$80,000+", "$100,000+", "$120,000+", "$140,000+", "$160,000+", "$180,000+", "$200,000+" ] - select only one
 salary = [ "$80,000+"]
 #sort - ex:["Recent"] or ["Relevent"] - select only one
-sort = ["Recent"]
+sort = ["Relevent"]
 #Blacklist companies you dont want to apply - ex: ["Apple","Google"]
-blacklistCompanies = []
+blacklistCompanies = ["Rakuten Viki", "ODK Media Inc", "KOCOWA"]
 #Blaclist keywords in title - ex:["manager", ".Net"]
 blackListTitles = []
 #Follow companies after sucessfull application True - yes, False - no
@@ -91,6 +91,16 @@ angelCoJobTitle = ["Frontend Engineer"]
 # location ex: ["Poland"]
 angelCoLocation = ["Poland"]
 
+# These settings are for running AngelCO job apply bot you need to purchase AngelCo bot obtain bot password, paste below and then run the bot.
+AngelCoBotPassword = ""
+# AngelCO credits
+AngelCoEmail = ""
+AngelCoPassword = ""
+# jobTitle ex: ["Frontend Engineer", "Marketing"]
+angelCoJobTitle = ["Marketing"]
+# location ex: ["Poland"]
+angelCoLocation = ["NorthAmerica"]
+
 # These settings are for running GlobalLogic job apply bot you need to purchase GlobalLogic bot obtain bot password, paste below and then run the bot.
 GlobalLogicBotPassword = ""
 # AngelCO credits
@@ -99,12 +109,12 @@ GlobalLogicPassword = ""
 # Functions ex: ["Administration", "Business Development", "Business Solutions", "Content Engineering", 	
 # Delivery Enablement", Engineering, Finance, IT Infrastructure, Legal, Marketing, People Development,
 # Process Management, Product Support, Quality Assurance,Sales, Sales Enablement,Technology, Usability and Design]
-GlobalLogicFunctions = ["Engineering"]
+GlobalLogicFunctions = ["Project Management"]
 # Global logic experience: ["0-1 years", "1-3 years", "3-5 years", "5-10 years", "10-15 years","15+ years"]
-GlobalLogicExperience = ["0-1 years", "1-3 years"]
+GlobalLogicExperience = ["1-3 years"]
 # Global logic location filter: ["Argentina", "Chile", "Crotia", "Germany", "India","Japan", "Poland"
 # Romania, Sweden, Switzerland,Ukraine, United States]
-GlobalLogicLocation = ["poland"]
+GlobalLogicLocation = ["NorthAmerica"]
 # Freelance yes or no
 GlobalLogicFreelance = ["no"]
 # Remote work yes or no
@@ -112,10 +122,10 @@ GlobalLogicRemoteWork = ["yes"]
 # Optional! Keyword:["javascript", "react", "angular", ""]
 GlobalLogicKeyword = ["react"]
 # Global Logic Job apply settinngs
-FirstName = "O"
-LastName = "D"
-Email = "asdsa@gmail.com"
-LinkedInProfileURL = "www.google.com"
+FirstName = "Sangil"
+LastName = "Jung"
+Email = "sangilish@gmail.com"
+LinkedInProfileURL = "https://www.linkedin.com/in/sangiljung/"
 Phone = "" #OPTIONAL
 Location = "" #OPTIONAL
 HowDidYouHeard = "" #OPTIONAL
