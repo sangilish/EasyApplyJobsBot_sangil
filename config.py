@@ -18,9 +18,9 @@ chromeProfilePath = r""
 # These settings are for running Linkedin job apply bot.
 # location you want to search the jobs - ex : ["Poland", "Singapore", "New York City Metropolitan Area", "Monroe County"]
 # continent locations:["Europe", "Asia", "Australia", "NorthAmerica", "SouthAmerica", "Africa", "Australia"]
-location = ["NorthAmerica"]
+location = ["San Francisco Bay Area"]
 # keywords related with your job search
-keywords = ["product manager", "project manager", "product management", "project management", "product marketing", "marketing manager", "marketing management", "marketing"]
+keywords = ["marketing manager", "marketing management", "marketing"]
 #job experience Level - ex:  ["Internship", "Entry level" , "Associate" , "Mid-Senior level" , "Director" , "Executive"]
 experienceLevels = [ "Mid-Senior level" ]
 #job posted date - ex: ["Any Time", "Past Month" , "Past Week" , "Past 24 hours"] - select only one
@@ -87,9 +87,9 @@ AngelCoBotPassword = ""
 AngelCoEmail = ""
 AngelCoPassword = ""
 # jobTitle ex: ["Frontend Engineer", "Marketing"]
-angelCoJobTitle = ["Frontend Engineer"]
+angelCoJobTitle = ["Marketing"]
 # location ex: ["Poland"]
-angelCoLocation = ["Poland"]
+angelCoLocation = ["San Francisco Bay Area"]
 
 # These settings are for running AngelCO job apply bot you need to purchase AngelCo bot obtain bot password, paste below and then run the bot.
 AngelCoBotPassword = ""
@@ -99,7 +99,7 @@ AngelCoPassword = ""
 # jobTitle ex: ["Frontend Engineer", "Marketing"]
 angelCoJobTitle = ["Marketing"]
 # location ex: ["Poland"]
-angelCoLocation = ["NorthAmerica"]
+angelCoLocation = ["San Francisco Bay Area"]
 
 # These settings are for running GlobalLogic job apply bot you need to purchase GlobalLogic bot obtain bot password, paste below and then run the bot.
 GlobalLogicBotPassword = ""
@@ -109,9 +109,9 @@ GlobalLogicPassword = ""
 # Functions ex: ["Administration", "Business Development", "Business Solutions", "Content Engineering", 	
 # Delivery Enablement", Engineering, Finance, IT Infrastructure, Legal, Marketing, People Development,
 # Process Management, Product Support, Quality Assurance,Sales, Sales Enablement,Technology, Usability and Design]
-GlobalLogicFunctions = ["Project Management"]
+GlobalLogicFunctions = ["Marketing Management"]
 # Global logic experience: ["0-1 years", "1-3 years", "3-5 years", "5-10 years", "10-15 years","15+ years"]
-GlobalLogicExperience = ["1-3 years"]
+GlobalLogicExperience = ["3-5 years"]
 # Global logic location filter: ["Argentina", "Chile", "Crotia", "Germany", "India","Japan", "Poland"
 # Romania, Sweden, Switzerland,Ukraine, United States]
 GlobalLogicLocation = ["NorthAmerica"]
@@ -120,7 +120,7 @@ GlobalLogicFreelance = ["no"]
 # Remote work yes or no
 GlobalLogicRemoteWork = ["yes"]
 # Optional! Keyword:["javascript", "react", "angular", ""]
-GlobalLogicKeyword = ["react"]
+GlobalLogicKeyword = [""]
 # Global Logic Job apply settinngs
 FirstName = "Sangil"
 LastName = "Jung"
